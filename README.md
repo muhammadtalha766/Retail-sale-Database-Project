@@ -5,6 +5,13 @@
 ![image](https://github.com/user-attachments/assets/c8c2a421-3ed5-4f50-9656-a33aed197f27)
 ![image](https://github.com/user-attachments/assets/fcd4ca84-af49-4f4a-8fc7-a42df92f4204)
 
+**Php Admin**
+![image](https://github.com/user-attachments/assets/a17647c5-718b-44c2-93c2-cbd4b75919a8)
+
+XAMPP Control Panel
+![image](https://github.com/user-attachments/assets/72708c01-102a-48a1-9b22-0694fa912e1a)
+
+
 ## Project Overview
 This project is a simple Retail Sales Analysis system built with PHP and MySQL. It allows users to manage customers, products, sales, suppliers, and employees.
 
