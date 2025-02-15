@@ -8,7 +8,7 @@
 **Php Admin**
 ![image](https://github.com/user-attachments/assets/a17647c5-718b-44c2-93c2-cbd4b75919a8)
 
-XAMPP Control Panel
+**XAMPP Control Panel**
 ![image](https://github.com/user-attachments/assets/72708c01-102a-48a1-9b22-0694fa912e1a)
 
 
