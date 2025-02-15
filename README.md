@@ -1,4 +1,5 @@
 # Retail Sales Analysis - Setup Guide
+![image](https://github.com/user-attachments/assets/c8a8eb0f-d081-4311-bd84-a883d9150bd7)
 
 ## Project Overview
 This project is a simple Retail Sales Analysis system built with PHP and MySQL. It allows users to manage customers, products, sales, suppliers, and employees.
