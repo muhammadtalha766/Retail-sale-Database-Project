@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
 $username = "root";  // Agar password nahi hai to blank chhoro
-$password = "mrtalha033";
+$password = "mrtalha033"; //write here your Mysql password
 $database = "retailsalesdb";
 
 $conn = new mysqli($host, $username, $password, $database);
